@@ -1,0 +1,63 @@
+body {
+  font-family: Roboto Mono;
+  background: rgba(10,20,20);
+  color:  #666666;
+  text-align: center;
+}
+h1{margin: 0px;
+  font-size: 75px;
+	line-height: 1.7;
+	color: #666666;
+}
+
+h1:hover{
+  color: black;
+  transition-duration: 1.0s;
+}
+a.button {
+   -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+    text-decoration: none;
+}
+
+.button{
+  background: black;
+  color: initial;
+  border: 1px outset white;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 1.0s;
+  cursor: pointer;
+  
+}
+
+.button:hover{
+    background: white;
+  color: black;
+
+}
+
+
+.myDivPar {
+  border: 1px outset white;
+  background-color: rgba(0,0,0,0.7);
+  text-align: left;
+}
+
+.myDivPar:hover {
+ zoom:1;
+}
+
+
+.myDivImPar {
+  border: 1px outset white;
+  background-color: transparent;
+  text-align: left;
+}
+
