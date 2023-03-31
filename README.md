@@ -28,10 +28,10 @@
     Título: Técnico en Computación</li>
     <li>  Estudios Universitarios: Universidad Nacional de Artes
     Título: Técnico en Artes Multimediales.</li>
-  <h4>En curso</h4>
-    <li>Licenciatura en Artes Multimediales (Carrera estrategia en el área de informática). Cursando 4to (ultimo) año.</li>
     <li>Universidad de Buenos Aires. Facultad de Ingenieria:
     Argentina Programa 4.0.  Fecha de finalización: marzo 2023.</li>
+  <h4>En curso</h4>
+    <li>Licenciatura en Artes Multimediales (Carrera estrategia en el área de informática). Cursando 4to (ultimo) año.</li>
     <li>Codo A Codo 4.0: Big Data.  Fecha de finalización:  junio 2023.</li>
 </ul>
   </div>
