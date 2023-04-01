@@ -55,9 +55,9 @@
     <h2 id = "seccion_4">Proyectos mejor finalizados y de gran despliegue tecnico</h2>
    <ul>
      <li> Tengo proyectos realizados en C++(utilizando OpenFrameworks y librerias como OpenCV y Box2d): <a href="https://github.com/LucianoColomboAM/Game-with-face-detection-and-Open-frameworks">Videojuego con detector de cara y Box2D. </a>, <a href="https://github.com/LucianoColomboAM/Game-with-open-frameworks">Videojuego solo con Open Frameworks. </a> </li>
-     <li> C#(.NET (Sharp Developer): <a href="">Videojuego Clasico "Memory Test" en Windows Forms</a>
+     <li> C#(.NET (Sharp Developer): <a href="">Videojuego Clasico "Memory Test" en Windows Forms</a>,<a href="https://github.com/LucianoColomboAM/Fast-Memory"> Juego de Rompecabezas</a>
      </li> 
-     <li> Processing (Lenguaje orientado al control de graficos en vivo basado en JAVA)<a href="https://github.com/LucianoColomboAM/Cancha">Patch de processing que simula patrones de canchas de futbol </a>, <a href="https://github.com/LucianoColomboAM/Globos-con-mensajes">proyecto que fusiona Processing, Base de datos, Spout, resolume arena y mapping, </a> <a href="https://github.com/LucianoColomboAM/Fast-Memory"> Juego de Rompecabezas</a>
+     <li> Processing (Lenguaje orientado al control de graficos en vivo basado en JAVA)<a href="https://github.com/LucianoColomboAM/Cancha">Patch de processing que simula patrones de canchas de futbol </a>, <a href="https://github.com/LucianoColomboAM/Globos-con-mensajes">proyecto que fusiona Processing, Base de datos, Spout, resolume arena y mapping, </a> 
      </li>
      <li>CSS, HTML(con Bootstrap), PHP, JS, Mysql: <a href="https://github.com/LucianoColomboAM/Sitio-web-Full-Stack-Cadaver-Exquisito">Sitio web cadaver exquisito con consultas en Mysql, php y Bootstrap </a>
      </li>
