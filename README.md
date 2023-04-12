@@ -45,7 +45,7 @@
     <li>  Uso avanzado de informática/offimatica incluyendo Microsoft Office (Word, Excel, Power Point), Adobe (Photoshop, After Effects, Illustrator) y alternativas como GIMP O InkSCAPE</li>
     <li>  Ingles medio</li>
     <li>  Arreglo y configuración de Computadoras y distintos equipos electrónicos, redes y protocolos TCP/IP.</li>
-   <li>Herramientas adicionales usadas: .Net Framework, Bootstrap, JSON, Computer Vision(Open CV), Arduino, Box2D, Open Frameworks. <li>
+   <li>Herramientas adicionales usadas: .Net Framework, Bootstrap, JSON, Computer Vision(Open CV), Arduino, Box2D, Open Frameworks. </li>
     <li>  Licencia de Conducir B1</li>   
    </ul>
      
